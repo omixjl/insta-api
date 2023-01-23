@@ -1,0 +1,6 @@
+const config = {
+    access_token: 'xxxxxxxxxxx',
+    page_id: 'xxxxxx'
+}
+
+module.exports = config;
